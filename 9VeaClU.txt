@@ -1,0 +1,69 @@
+14.98.15.1:23 root:root:23 default:password
+102.134.2.119:23 root:root:23 support:123
+223.100.57.60:23 root:root:23 support:password
+222.39.240.10:23 root:root:23 support:password
+196.251.249.136:23 admin:admin:23 guest:123
+72.51.83.46:23 default::23 user:123
+185.135.195.11:23 guest:12345:23 administator:adm
+admin:admin:222.175.151.210:23 administator:123
+admin:admin:122.224.38.174:23 support:user
+admin:admin:58.58.200.38:23 administator:root
+admin:admin:113.116.182.130:23 support:ubnt
+admin:admin:61.177.81.122:23 default:vizxv
+admin:admin:115.196.106.107:23 default:adm
+admin:1234:180.159.16.105:23 user:root
+admin:admin:103.238.134.227:23 admin:ubnt
+admin:1234:180.164.36.191:23 user:bin
+admin:admin:112.26.101.249:23 support:12345
+admin:admin:106.2.232.238:23 administator:vizxv
+admin:admin:221.193.208.59:23 support:1234
+admin:admin:61.171.216.182:23 administator:user
+admin:admin:120.35.33.138:23 default:pass
+admin:admin:218.56.65.210:23 guest:pass
+admin:admin:221.193.222.14:23 support:user
+guest:guest:218.22.100.45:23 administator:vizxv
+admin:admin:58.246.176.242:23 administator:12345
+admin:admin:49.64.185.42:23 administator:bin
+admin:admin:221.226.135.162:23 default:12345
+admin:admin:221.217.176.255:23 support:guest
+admin:admin:118.72.235.131:23 support:user
+admin:admin:39.129.15.186:23 administator:bin
+admin:admin:111.57.37.46:23 administator:12345
+admin:admin:115.230.8.19:23 administator:123
+admin:admin:112.4.136.184:23 administator:guest
+admin:admin:111.9.92.57:23 default:1234
+admin:admin:60.214.119.130:23 support:123
+admin:1234:101.229.255.151:23 administator:root
+admin:admin:222.217.221.179:23 support:ubnt
+admin:admin:119.36.177.216:23 admin:password
+admin:admin:211.93.16.182:23 administator:guest
+admin:admin:113.7.239.245:23 default:123
+test:test:103.242.175.204:23 default:vizxv
+admin:admin:120.192.201.22:23 default:pass
+admin:admin:60.173.252.65:23 user:vizxv
+admin:admin:116.52.13.118:23 administator:bin
+root:root:117.158.221.60:23 administator:guest
+admin:admin:115.192.235.200:23 administator:1234
+admin:admin:222.183.24.101:23 support:bin
+admin:admin:153.35.195.50:23 administator:ubnt
+root:root:45.14.224.178:23 guest:user
+admin:1234:114.93.189.97:23 user:password
+root:root:120.92.34.218:23 administator:ubnt
+admin:1234:180.171.57.84:23 admin:root
+admin:admin:222.184.235.94:23 admin:bin
+admin:admin:111.85.91.218:23 default:123
+admin:admin:61.153.155.158:23 root:ubnt
+admin:admin:103.232.146.57:23 default:12345
+admin:admin:125.67.202.133:23 support:user
+admin:admin:117.173.207.244:23 default:ubnt
+admin:1234:61.165.30.152:23 user:pass
+admin:admin:112.54.43.93:23 administator:password
+admin:admin:122.226.108.62:23 guest:vizxv
+admin:admin:117.39.63.18:23 default:adm
+admin:admin:101.95.188.158:23 user:bin
+admin:admin:1.192.216.157:23 support:vizxv
+admin:admin:58.21.173.146:23 guest:password
+admin:admin:60.220.242.54:23 admin:123
+admin:admin:218.26.5.228:23 admin:pass
+admin:admin:223.113.121.34:23 guest:password
+admin:admin:222.138.60.154:23 user:12345
