@@ -1,1 +1,1 @@
-dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
+Add-AppxPackage -Path "C:\Users\Administrator\Downloads\CanonicalGroupLimited.UbuntuonWindows_2004.2021.825.0.AppxBundle"
